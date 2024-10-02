@@ -23,7 +23,7 @@ export const PROJECTS = [
       "Material UI",
       "TMDB API",
     ],
-    link: "https://www.google.com/",
+    link: "https://github.com/aishasinha15/KathaStream",
   },
   {
     title: "SevaSquad",
@@ -31,7 +31,7 @@ export const PROJECTS = [
     description:
       "A service-based platform that connects users with local service providers for a variety of tasks, including cleaning, repairs, and home maintenance. It offers a seamless booking system, service tracking, and secure payments for hassle-free home assistance.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
-    link: "https://www.google.com/",
+    link: "https://github.com/aishasinha15/SevaSquad",
   },
   {
     title: "Sorting Visualizer",
