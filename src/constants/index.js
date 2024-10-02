@@ -54,8 +54,8 @@ export const PROJECTS = [
     image: portfolio,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information, designed to highlight my work and interests.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-    link: "https://www.google.com/",
+    technologies: ["HTML", "CSS", "React", "JavaScript", "Node.js", "Vite"],
+    link: "https://portfolio-aisha-sinha.netlify.app/",
   },
 ];
 
