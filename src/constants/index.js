@@ -55,7 +55,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information, designed to highlight my work and interests.",
     technologies: ["HTML", "CSS", "React", "JavaScript", "Node.js", "Vite"],
-    link: "https://portfolio-aisha-sinha.netlify.app/",
+    link: "/",
   },
 ];
 
