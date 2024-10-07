@@ -29,7 +29,7 @@ export const PROJECTS = [
     title: "SevaSquad",
     image: project3,
     description:
-      "A service-based platform that connects users with local service providers for a variety of tasks, including cleaning, repairs, and home maintenance. It offers a seamless booking system, service tracking, and secure payments for hassle-free home assistance.",
+      "A service-based platform that connects users with local service providers for a variety of tasks, including cleaning, repairs, and home maintenance. It offers a seamless booking system and secure payments for hassle-free home assistance.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
     link: "https://github.com/aishasinha15/SevaSquad",
   },
